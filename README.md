@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Tiago+Lima+Ferreira;Sou+desenvolvedor+de+17+anos;Bem-vindo+ao+meu+GitHub!+👋"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Tiago+Lima+Ferreira;I'm+a+17+year+old+developer+👨‍💻;Welcome+to+my+GitHub!+👋"/>
 </p>
+
+
 
 
 <div align="center">  
@@ -10,7 +12,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-limaa&layout=compact&hide_border=true&title_color=0A66C2&text_color=00bfbf&bg_color=0d1117&" />
 </div>
 
-[![Gráfico de Atividades GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ti-limaa&bg_color=0d1117&color=eaf6ff&line=00c2ff&point=72f9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ti-limaa&bg_color=0d1117&color=eaf6ff&line=00c2ff&point=72f9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/ti.limaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -33,18 +35,18 @@
 
 ---
 
-### 📘 Studying in this moment:
+### 📘 Currently studying:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 ---
 
-### 🧠 Other Knowledge:
+### 🧠 Other knowledge:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="center"><b>Contador de visitas</b></p>  
+<br><p align="center"><b>Visitor counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ti-limaa}/count.svg" /></p> 
 <br></div>
 
